@@ -1,2 +1,2 @@
 # docker-apache
-SHANGPIN dockerized apache
+Dockerized apache
